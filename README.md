@@ -10,5 +10,4 @@
 
 API used: https://covid19.mathdro.id/api
 
-Setup:
-- run ```npm i && npm start```
+To start this project on our local server please write npm i and npm start on terminal ..
